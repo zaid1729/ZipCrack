@@ -16,8 +16,10 @@
 
 
 ## Features:
-     * You Can Crack ZIP Password Protected Files Using Below Method:
+    - You Can Crack ZIP Password Protected Files Using Below Method:
+    
      1) Dictionary Attack
+     
         a) Your Own Custom Wordlist is required.
         
      2) More Features Will Be Added IA:)
