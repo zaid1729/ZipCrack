@@ -9,6 +9,7 @@
     1. pyfiglet
     2. termcolor
     3. requests
+    4. zipfile
     
 ## Usage:
     python3 zcrack.py
