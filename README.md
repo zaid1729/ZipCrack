@@ -1,7 +1,7 @@
 # ZipCrack
 
 ## Installation:
-    1. git clone https://github.com/zaid1729/ZipCrack
+    1. git clone https://github.com/zaid1729/ZipCrack.git
     2. cd zipcrack 
     3. python3 -m pip install -r requirements.txt
     
