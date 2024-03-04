@@ -1,4 +1,4 @@
-# zipCrack
+# ZipCrack
 
 ## Installation:
     1. git clone https://github.com/zaid1729/ZipCrack
