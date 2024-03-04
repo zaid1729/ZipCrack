@@ -1,7 +1,7 @@
-# zipcrack
+# zipCrack
 
 ## Installation:
-    1. git clone https://github.com/zaid1729/Cracker_ZIP.git
+    1. git clone https://github.com/zaid1729/ZipCrack
     2. cd zipcrack 
     3. python3 -m pip install -r requirements.txt
     
@@ -16,7 +16,7 @@
 
 
 ## Features:
-     *: You Can Crack ZIP Password Protected Files Using Below Method:
+     * You Can Crack ZIP Password Protected Files Using Below Method:
      1) Dictionary Attack
         a) Your Own Custom Wordlist is required.
         
